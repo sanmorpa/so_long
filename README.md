@@ -52,4 +52,7 @@
          <li>make fclean: deletes all .o files and the executable</li>
     </ul>
     </p>
+      Launch the program as follows:<br/>
+  <b>./so_long *.ber</b>
+    </p>
 </div>
